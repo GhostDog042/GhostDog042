@@ -1,5 +1,5 @@
 - 👋 @GhostDog042 reportin'
-- 🌱 I’m currently working on coding Vex V5 robots in Python, and attempting to experiment with the Sparkfun MicroMod Artemis
+- 🌱 I’m currently working on coding Vex V5 robots in Python, and attempting to experiment with the Sparkfun MicroMod Artemis. I have also recently disovered the joys of the Ryze Tello drones.
 - 📫 Try and contact me via GitHub or something?
 
 <!---
